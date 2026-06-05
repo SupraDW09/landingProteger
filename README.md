@@ -1,30 +1,30 @@
 # 🛡️ Grupo PROTEGER - Landing Page Oficial
 
-[cite_start]Este repositorio contiene el código fuente de la Landing Page principal del **Grupo Proteger**. [cite_start]El objetivo central de este desarrollo es romper la barrera de la desconfianza y ofrecer una plataforma segura, rápida y optimizada para la captación de leads en el sector de intermediación y gestión de seguridad social en Colombia[cite: 4, 112].
+Este repositorio contiene el código fuente de la Landing Page principal del **Grupo Proteger**. El objetivo central de este desarrollo es romper la barrera de la desconfianza y ofrecer una plataforma segura, rápida y optimizada para proyectar el máximo nivel de legalidad, respaldo y tranquilidad en el sector de intermediación y gestión de seguridad social en Colombia.
 
 ## 🚀 Tecnologías Utilizadas
 
-* [cite_start]**HTML5 Semántico:** Estructura limpia y accesible[cite: 20].
-* [cite_start]**Tailwind CSS:** Framework de utilidades para un diseño moderno, responsivo y corporativo[cite: 8, 20].
-* [cite_start]**JavaScript (Vanilla):** Lógica para la calculadora interactiva de cotizaciones[cite: 38].
-* [cite_start]**Gemini CLI:** Herramienta de inteligencia artificial utilizada para la iteración de código limpio, modular y estructurado[cite: 5].
+* **HTML5 Semántico:** Estructura limpia y accesible.
+* **Tailwind CSS:** Framework de utilidades para un diseño moderno, responsivo y corporativo.
+* **JavaScript (Vanilla):** Lógica integrada para la calculadora interactiva de cotizaciones en tiempo real.
+* **Gemini CLI:** Herramienta de inteligencia artificial utilizada para la iteración rápida de código limpio, modular y estructurado desde la terminal.
 
 ## 🎯 Arquitectura del Negocio y Segmentación
 
-[cite_start]La interfaz está estratégicamente dividida para resolver los dolores específicos de nuestros principales nichos de mercado[cite: 21, 125]:
+La interfaz está estratégicamente dividida para resolver los dolores específicos de nuestros principales nichos de mercado:
 
-* [cite_start]**Independientes (Conductores/Constructores):** Enfoque en protección vial y riesgos laborales (ARL)[cite: 13].
-* [cite_start]**Empleadores de Hogar:** Enfoque en afiliación por días para evitar demandas[cite: 14].
-* [cite_start]**Contratistas:** Enfoque en la generación rápida de la planilla (PDF) para el cobro de honorarios[cite: 15, 88].
-* [cite_start]**Pymes y Microempresas:** Outsourcing integral para evitar multas de la UGPP[cite: 16, 98].
+* **Independientes (Conductores/Constructores):** Enfoque en protección vial y riesgos laborales (ARL) para que no queden desamparados ante posibles accidentes.
+* **Empleadores de Hogar:** Enfoque en la afiliación por días para cumplir con la ley y evitar demandas confusas y costosas por accidentes en casa.
+* **Contratistas:** Enfoque en erradicar la "fobia administrativa" de la plataforma PILA, entregando el PDF listo para que puedan adjuntarlo a su cuenta de cobro y recibir sus honorarios.
+* **Pymes y Microempresas:** Gancho de outsourcing integral para la delegación de ingresos, retiros y liquidación de PILA, evitando errores y multas millonarias de la UGPP.
 
 ## ⚙️ Características Técnicas Clave
 
-* [cite_start]**Sticky Navbar:** Cinta de navegación transparente que acompaña al usuario manteniendo la jerarquía visual del logo institucional[cite: 50, 51].
-* [cite_start]**API de WhatsApp Directa:** Enlaces universales preconfigurados con mensajes codificados (`%20`) para cada segmento de cliente, garantizando un embudo de conversión directo[cite: 44, 48].
-* [cite_start]**Social Proof:** Sección dedicada a mostrar los logos de operadores oficiales (SURA, Positiva, Colpensiones, Mi Planilla, etc.) para generar autoridad[cite: 12, 118].
-* [cite_start]**Preparado para Meta Ads:** Estructura lista para la integración del Píxel de Meta, permitiendo la medición exacta de clics hacia WhatsApp[cite: 26, 27].
+* **Sticky Navbar:** Cinta de navegación transparente y fija que acompaña al usuario (usando `fixed` y `bg-transparent`), escalando el logo para mantener una jerarquía visual dominante y corporativa.
+* **API de WhatsApp Directa:** Enlaces universales preconfigurados y sin código complejo, utilizando mensajes codificados con `%20` para cada segmento, lo que garantiza un embudo de conversión directo a nuestro número.
+* **Social Proof (Sección de Confianza):** Bloque dedicado a mostrar los logos de operadores oficiales de PILA (Mi Planilla, Arus) y entidades avaladas (SURA, Positiva, Colpensiones, Porvenir) para generar autoridad y confianza.
+* **Preparado para Meta Ads:** Estructura lista para la integración del Píxel de Meta, permitiendo la medición exacta de clics provenientes de las campañas publicitarias hacia WhatsApp.
 
 ## 🛠️ Despliegue
 
-[cite_start]El proyecto está diseñado para ser desplegado en plataformas estáticas de alta velocidad (Vercel, Netlify o GitHub Pages) directamente desde la terminal[cite: 25].
+El proyecto está diseñado para ser desplegado en plataformas estáticas de alta velocidad, como Vercel, Netlify o GitHub Pages, directamente desde la terminal de comandos.
